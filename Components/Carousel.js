@@ -1,6 +1,5 @@
 'use client'
 
-import { CarouselApi } from "@/components/ui/carousel"
 import React from 'react'
 import {
     Carousel,
