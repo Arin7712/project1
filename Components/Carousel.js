@@ -4,9 +4,7 @@ import React from 'react'
 import {
     Carousel,
     CarouselContent,
-    CarouselItem,
-    CarouselNext,
-    CarouselPrevious,
+    CarouselItem
   } from "@/components/ui/carousel"
 import Image from 'next/image'
 import { useState, useEffect } from "react"
